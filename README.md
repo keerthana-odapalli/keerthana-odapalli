@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I'm a third year Computer Science student from Hyderabad.
+- 🌱 I’m currently learning machine learning and full stack development.
+- 📫 How to reach me: keerthana.odapalli@gmail.com
+
 ## languages & frameworks
 <p>
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge&logoColor=white" alt="Java">

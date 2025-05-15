@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge&logoColor=white" alt="React">
 </p>
 
-![](https://komarev.com/ghpvc/?username=keerthana-odapalli&color=ff69b4)
+

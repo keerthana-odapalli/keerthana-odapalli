@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I'm a third year Computer Science student from Hyderabad.
+#### I'm a final year Computer Science student from Hyderabad.
 - 🌱 I’m currently learning machine learning and full stack development.
 - 📫 How to reach me: keerthana.odapalli@gmail.com
 
